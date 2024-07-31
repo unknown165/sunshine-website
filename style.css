@@ -1,175 +1,177 @@
 *{
-    margin-left: 20px;
-    margin-right: 20px;
-  }
-  
-  
-  head{
-    top:20px;
-  }
-  
-  h3{
-    font-size:30px;
-    color:FO382A
-  }
-  
-  
-  body {
-    background-color:#F5F3F1;
-    background-size: auto;
-              background-repeat: no-repeat; 
-              background-position: center; 
-    
-    padding: 25px;
-    font-family: sans-serif;
-  }
-  
-  p{
-    font-size:20px;
-    color: #000000;
-    font-family:Candara;
-    font-weight:bold;
-    
-  }
-  
-  h1{
-  font-size:80px;
-  font-family:Tahoma;
-  text-align:center;
-  }
-  #sec p{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+
+head{
+  top:20px;
+}
+
+h3{
   font-size:30px;
-  text-align:center;
-  color:#F0382A;
-  border-radius: 5px;
-  outline: red dotted 5px;
-  outline-offset:5px;
+  color:FO382A
+}
+
+
+body {
+  background-color:#F5F3F1;
+  background-size: auto;
+            background-repeat: no-repeat; 
+            background-position: center; 
   
-  
-  
-  }
-  #Picture{
-    position:center;
-  }
-  #Picture h2{
-    text-align:left;
-  }
-  
-  
-  li p{ 
-  font-size:24px;
-  }
-  h4{
-    font-size:30px;
-  }
-  
-  iframe{
-  position:center;
-  margin-left:auto;
-  margin-right:auto;
-  }
-  
-  h6{
-    text-align:center;
-    font-size:25px;
-  }
-  
-  li h6{
-  
-  font-size:10px;
-  
-  }
-  
-  h8{
-  
-  font-size: 20px;
-  color:#F0382A;
-  text-align:left;
+  padding: 25px;
+  font-family: sans-serif;
+}
+
+p{
+  font-size:20px;
+  color: #000000;
+  font-family:Candara;
   font-weight:bold;
   
-  
-  }
-  
-  h5{
-    font-size: 20px;
-    line-height:35px;
-    font-family:Times New Roman;
-  
-  
-  }
-  
-  
-  #title p{
-  color: red;
+}
+
+h1{
+font-size:80px;
+font-family:Tahoma;
+text-align:center;
+}
+#sec p{
+font-size:30px;
+text-align:center;
+color:#F0382A;
+border-radius: 5px;
+outline: red dotted 5px;
+outline-offset:5px;
+
+
+
+}
+#Picture{
+  position:center;
+}
+#Picture h2{
+  text-align:left;
+}
+
+
+li p{ 
+font-size:24px;
+}
+h4{
+  font-size:30px;
+}
+
+iframe{
+position:center;
+margin-left:auto;
+margin-right:auto;
+}
+
+h6{
+  text-align:center;
   font-size:25px;
-  border-radius: 5px;
-  outline-color:red;
-  outline-style:dotted;
-  outline-width: 5px;
-  outline-offset: 5px;
-  }
-  
-  li h2{
-  
-  text-decoration:underline;
-  
-  }
-  
-  ol{
-  
-  
-  }
-  #edu p{
-    font-size:30px;
-    line-height:40px;
-  }
-  #edu h6{
-    text-align:left;
-    font-size:40px
-    margin-left:40px;
-    line-height:40px;
-  }
-  
-  #int h6{
-    text-align:left;
-    font-size:40px
-    margin-left:40px;
-    line-height:40px;
-  }
-  #int p{
-    font-size:30px;
-    line-height:40px;
-  
-  }
-  #news h6{
-    text-align:left;
-  }
-  #school p{
-    font-size:30px;
-    line-height:40px;
-  }
-  
-  
-  
-  
-  
-  .image-row {
-      display: flex;
-      justify-content: space-around; /* Adjusts the spacing between items */
-      gap: 10px; /* Optional: add space between images */
-      flex-wrap: wrap; /* Allows wrapping if there are too many images for one row */
-  }
-  
-  .image-row a img {
-      display: block; /* Ensures the images are displayed as block elements */
-      margin: auto; /* Center-aligns images within their container */
-  }
-  footer{
-    bottom:20px;
-  }
-  
-  
-  
-  
-  
-  
+}
+
+li h6{
+
+font-size:10px;
+
+}
+
+h8{
+
+font-size: 20px;
+color:#F0382A;
+text-align:left;
+font-weight:bold;
+
+
+}
+
+h5{
+  font-size: 20px;
+  line-height:35px;
+  font-family:Times New Roman;
+
+
+}
+
+
+#title p{
+color: red;
+font-size:25px;
+border-radius: 5px;
+outline-color:red;
+outline-style:dotted;
+outline-width: 5px;
+outline-offset: 5px;
+}
+
+li h2{
+
+text-decoration:underline;
+
+}
+
+ol{
+
+
+}
+#edu p{
+  font-size:30px;
+  line-height:40px;
+}
+#edu h6{
+  text-align:left;
+  font-size:40px
+  margin-left:40px;
+  line-height:40px;
+}
+
+#int h6{
+  text-align:left;
+  font-size:40px
+  margin-left:40px;
+  line-height:40px;
+}
+#int p{
+  font-size:30px;
+  line-height:40px;
+
+}
+#news h6{
+  text-align:left;
+}
+#school p{
+  font-size:30px;
+  line-height:40px;
+}
+#learn p{
+
+  text-align:center;
+}
+
+
+
+
+.image-row {
+    display: flex;
+    justify-content: space-around; /* Adjusts the spacing between items */
+    gap: 10px; /* Optional: add space between images */
+    flex-wrap: wrap; /* Allows wrapping if there are too many images for one row */
+}
+
+.image-row a img {
+    display: block; /* Ensures the images are displayed as block elements */
+    margin: auto; /* Center-aligns images within their container */
+}
+footer{
+  bottom:20px;
+}
+
+
+
+
+
